@@ -1,7 +1,7 @@
 {
-  "name": "7.css",
-  "version": "0.17.0",
-  "description": "A design system for building faithful recreations of the Windows 7 UI.",
+  "name": "custom7fortct.css",
+  "version": "0.17.1",
+  "description": "fork u brah!",
   "main": "dist/7.css",
   "files": [
     "dist/gui",
@@ -14,22 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khang-nd/7.css.git"
+    "url": "git+https://github.com/nevadaa/custom7.css.git"
   },
   "keywords": [
-    "css",
-    "scss",
-    "windows",
-    "windows7",
-    "gui",
-    "ui-design"
+    "privtctthingybyb"
   ],
   "author": "khang-nd",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/khang-nd/7.css/issues"
   },
-  "homepage": "https://khang-nd.github.io/7.css",
   "devDependencies": {
     "autoprefixer": "^10.4.8",
     "chokidar": "^3.3.1",
